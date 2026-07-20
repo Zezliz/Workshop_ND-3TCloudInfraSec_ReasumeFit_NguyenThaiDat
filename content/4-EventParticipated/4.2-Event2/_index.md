@@ -20,13 +20,14 @@ pre: " <b> 4.2. </b> "
 *   **Value for Attendees:** Recognize recruitment market demands, know how to provide correct contexts for AI, deeply understand Cloud cost optimization, and grasp mindsets for bringing AI into enterprise production instead of just building toy demos.
 
 ### Speakers
-*   **Nguyen Gia Hung:** Title: Solution Architect. Company: AWS Vietnam (Founder of FCAJ).
-*   **Tinh:** Title: Platform Engineer. Company: Got It (Gotam X).
-*   **Hai Anh:** Company: Pacific Vietnam.
-*   **Thinh:** Title: DevOps Engineer.
-*   **UTM Team:** Speakers sharing their Hackathon project experience.
-*   **Duc:** Detailed sharing on LLM parameters and the probabilistic nature of AI.
-*   **Vy from VPBank:** Shared insights on building enterprise-grade Multi-Agent systems for banking operations.
+*   **Tinh Truong** – Platform Engineer at GoTymeX
+*   **Thinh Nguyen** – DevOps Engineer | FCAJ Ambassador
+*   **Anh Pham** – Cloud Consultant at G-AsiaPacific Vietnam
+*   **Uyen Le** – GenAI Engineer at VIB
+*   **Thao Nguyen** – GenAI Engineer at VIB
+*   **Mai Nguyen** – GenAI Engineer at VIB
+*   **Duc Dao** – Solutions Architect at Cloud Kinetics
+*   **Vy Lam** – Senior Business Systems Analyst at VPBank
 
 ### Key Highlights
 *   **Problem Overview:** 

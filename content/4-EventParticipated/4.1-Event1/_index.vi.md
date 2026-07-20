@@ -20,10 +20,10 @@ pre: " <b> 4.1. </b> "
 *   **Giá trị dành cho người tham dự:** Cung cấp những bài học thực tế từ các chuyên gia, giúp người tham dự không bị "ngợp" trước lượng kiến thức lớn, biết cách biến AI thành đòn bẩy công việc, và xây dựng nền tảng vững chắc để phát triển dài hạn.
 
 ### Danh Sách Diễn Giả
-*   **Diễn giả 1 (Long - Ban tổ chức):** Trình bày về chủ đề "Hack não" tạo động lực học tập bằng Dopamine.
-*   **Diễn giả 2 (Thịnh):** Trình bày về kỹ thuật "Ultimate Prompt Engineering" và kiến trúc AWS.
-*   **Diễn giả 3 (Khang):** Chức vụ: Solution Architect. Đơn vị công tác: Cloud Kinetics. (Chia sẻ về tư duy đi làm và nền tảng cốt lõi).
-*   **Diễn giả 4 (Thảo):** Chức vụ: Software Development Developer. Đơn vị công tác: Ngân hàng Quốc tế Việt Nam - VIB. (Chia sẻ về phương pháp BMX trong phát triển phần mềm).
+*   **Khang Nguyen** – Solution Architect at CloudKinetics
+*   **Thinh Nguyen** – DevOps Engineer | FCAJ Ambassador at AWS
+*   **Long Hoang** – FCAJ Ambassador at AWS
+*   **Thao Nguyen Phuong** – Cloud Engineer Intern at VIB | FCJ Ambassador at AWS
 
 ### Nội Dung Nổi Bật
 *   **Tổng quan vấn đề:** 

@@ -20,10 +20,10 @@ pre: " <b> 4.1. </b> "
 *   **Value for Attendees:** Provide practical lessons from industry experts to help attendees avoid getting overwhelmed by vast amounts of information, learn how to leverage AI as a productivity multiplier, and build a solid foundation for long-term growth.
 
 ### Speakers
-*   **Speaker 1 (Long - Organizing Committee):** Presented on the topic "Hack your brain: Create study motivation using Dopamine".
-*   **Speaker 2 (Thinh):** Presented on "Ultimate Prompt Engineering" techniques and AWS architecture.
-*   **Speaker 3 (Khang):** Title: Solution Architect. Company: Cloud Kinetics. (Shared insights on career mindset and core foundations).
-*   **Speaker 4 (Thao):** Title: Software Development Developer. Company: Vietnam International Bank - VIB. (Shared the BMX framework methodology in software development).
+*   **Khang Nguyen** – Solution Architect at CloudKinetics
+*   **Thinh Nguyen** – DevOps Engineer | FCAJ Ambassador at AWS
+*   **Long Hoang** – FCAJ Ambassador at AWS
+*   **Thao Nguyen Phuong** – Cloud Engineer Intern at VIB | FCJ Ambassador at AWS
 
 ### Key Highlights
 *   **Problem Overview:** 

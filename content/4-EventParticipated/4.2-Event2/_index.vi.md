@@ -20,13 +20,14 @@ pre: " <b> 4.2. </b> "
 *   **Giá trị dành cho người tham dự:** Nhận thức được yêu cầu thực tế của thị trường tuyển dụng, biết cách cung cấp ngữ cảnh đúng cho AI, hiểu sâu về tối ưu hóa chi phí Cloud, và nắm bắt tư duy đưa AI vào ứng dụng thực tế của doanh nghiệp thay vì chỉ làm các demo nhỏ.
 
 ### Danh Sách Diễn Giả
-*   **Nguyễn Gia Hưng:** Chức vụ: Solution Architect. Đơn vị: AWS Việt Nam (Người sáng lập FCAJ). 
-*   **Tịnh:** Chức vụ: Platform Engineer. Đơn vị: Got It (Gotam X).
-*   **Hải Anh:** Đơn vị: Pacific Việt Nam. 
-*   **Thịnh:** Chức vụ: DevOps Engineer.
-*   **Nhóm UTM:** Các diễn giả chia sẻ về dự án thi Hackathon.
-*   **Đức:** Chia sẻ chuyên sâu về thông số LLM và tính bất định của AI.
-*   **Vy từ VPBank:** Chia sẻ về cách xây dựng hệ thống Multi-Agent chuẩn doanh nghiệp (Enterprise-grade) phục vụ cho nghiệp vụ ngân hàng.
+*   **Tinh Truong** – Platform Engineer at GoTymeX
+*   **Thinh Nguyen** – DevOps Engineer | FCAJ Ambassador
+*   **Anh Pham** – Cloud Consultant at G-AsiaPacific Vietnam
+*   **Uyen Le** – GenAI Engineer at VIB
+*   **Thao Nguyen** – GenAI Engineer at VIB
+*   **Mai Nguyen** – GenAI Engineer at VIB
+*   **Duc Dao** – Solutions Architect at Cloud Kinetics
+*   **Vy Lam** – Senior Business Systems Analyst at VPBank
 
 ### Nội Dung Nổi Bật
 *   **Tổng quan vấn đề:** 
